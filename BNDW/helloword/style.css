@@ -9,3 +9,29 @@ div {
     background-color: rgb(224, 224, 192);
     border-radius: 8px;
 }
+div:hover{
+    background-color: rgb(235, 235, 209);;
+}
+#btnRegister{
+    height: auto; 
+}
+#btnFollow{
+    height: auto;
+}
+.myButton{
+     height: auto; 
+    width: 80px; 
+    color: rgb(255, 255, 255); 
+    background-color: black;
+    border-radius: 8px; 
+    border: none;
+    padding: 8px;
+    margin: 8px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+.myButton:hover{
+    background-color: rgb(153, 131, 131);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
